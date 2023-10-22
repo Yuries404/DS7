@@ -10,9 +10,10 @@ echo "ClaseBase::moreTesting() llamada\n";
 }
 }
 class ClaseHijo extends ClaseBase {
+    
 }
 /*Respuesta: 
 Error: Class ClaseHijo may not inherit from final class (ClaseBase)
 No se puede heredar de clases finales. 
-
+*/
 ?>
